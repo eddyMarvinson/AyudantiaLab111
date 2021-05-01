@@ -13,4 +13,4 @@ def procedimientoSerie(n):
 		print(str(num(i + 1, n))+"/"+str(den(i + 1, n)))
 
 n = int(input())
-show(n)
+procedimientoSerie(n)
